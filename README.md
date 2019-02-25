@@ -6,10 +6,9 @@
 
 基本格式：
 
-- 创意设定：
 - 所属作品：
 - 主创人员：
-- 详细介绍：
+- 创意设定：
 
 警告，以下内容涉及严重剧透！
 Spoiler Alert!
@@ -18,13 +17,45 @@ Spoiler Alert!
 
 ## 外星人
 
-## 新生物
+- 所属作品：世界大战（the War of the Worlds）
+- 主创人员：Herbert George Wells
+- 创意设定：来自火星的外星人，屠杀地球人，意图侵占地球
+
+
+- 所属作品：太空漫游2001（2001: A Space Odyssey）
+- 主创人员：Arthur C. Clarke / Stanley Kubrick
+- 创意设定：引导生命演化和新生的黑方碑（monolith）
+
+
+- 所属作品：E.T. 外星人（E.T.: The Extra-Terrestrial）
+- 主创人员：Steven Spielberg / Melissa Mathison
+- 创意设定：具有特异功能的善意外星人
+
+
+
+## 新类型生物
 
 ## 机器人与人工智能
 
-### 
+### 机械生物
+
+### 混合生物
+
+### 人工智能
+
+- 所属作品：弗兰肯斯坦（Frankenstein）
+- 主创人员：Mary Wollstonecraft Shelley
+- 创意设定：科学家创造了一个怪物，却不容于社会，被驱逐与追捕，于是怪物向人类复仇，与创造者同归于尽
 
 # 生物技术（身体和意识变化）
+
+
+## 人造生物
+
+
+- 所属作品：弗兰肯斯坦（）
+- 主创人员：
+- 创意设定：
 
 ## 能力增强
 
@@ -40,9 +71,16 @@ Spoiler Alert!
 
 隐身
 
-## 基因工程
+## 基因修改和演化
 
-### 克隆
+### 基因检测、编辑与克隆
+
+- 所属作品：千钧一发（Gattaca）
+- 主创人员：Andrew Niccol / Ethan Hawke / Jude Law / Uma Thurman
+- 创意设定：人类掌握了基因检测技术，并且基因决定了个人的能力和表现，由此从一出生就决定了个人的命运，社会开始歧视基因有缺陷的人。
+
+
+### 演化变异
 
 ## 长寿和永生
 
@@ -77,6 +115,9 @@ Spoiler Alert!
 ## 超光速或光速航行
 
 ## 亚光速航行
+
+
+# 军事技术
 
 # 生存环境
 
@@ -115,6 +156,11 @@ Spoiler Alert!
 ## 时间
 
 ### 时间旅行
+
+
+- 所属作品：时间机器（the Time Machine）
+- 主创人员：Herbert George Wells
+- 创意设定：科学家研制并乘坐时间机器到未来旅行
 
 ### 时间逆流
 
