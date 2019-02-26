@@ -2,15 +2,14 @@
 
 该项目的目的：收集有开创性、独特性和影响力的科学幻想创意设定，以科幻小说为主。
 
-<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
-
 基本格式：
 
 - 所属作品：
 - 主创人员：
 - 创意设定：
+----------------------------------------------------------------
 
-警告，以下内容涉及严重剧透！
+警告，以下内容涉及严重剧透！\
 Spoiler Alert!
 
 # 众生
@@ -20,16 +19,19 @@ Spoiler Alert!
 - 所属作品：世界大战（the War of the Worlds）
 - 主创人员：Herbert George Wells
 - 创意设定：来自火星的外星人，屠杀地球人，意图侵占地球
+----------------------------------------------------------------
 
 
 - 所属作品：太空漫游2001（2001: A Space Odyssey）
 - 主创人员：Arthur C. Clarke / Stanley Kubrick
 - 创意设定：引导生命演化和新生的黑方碑（monolith）
+----------------------------------------------------------------
 
 
 - 所属作品：E.T. 外星人（E.T.: The Extra-Terrestrial）
 - 主创人员：Steven Spielberg / Melissa Mathison
 - 创意设定：具有特异功能的善意外星人
+----------------------------------------------------------------
 
 
 
@@ -43,9 +45,10 @@ Spoiler Alert!
 
 ### 人工智能
 
-- 所属作品：弗兰肯斯坦（Frankenstein）
-- 主创人员：Mary Wollstonecraft Shelley
-- 创意设定：科学家创造了一个怪物，却不容于社会，被驱逐与追捕，于是怪物向人类复仇，与创造者同归于尽
+- 所属作品：太空漫游2001（2001: A Space Odyssey）
+- 主创人员：Arthur C. Clarke / Stanley Kubrick
+- 创意设定：自认为绝对正确，欺骗和杀死人类的人工智能电脑 HAL9000
+----------------------------------------------------------------
 
 # 生物技术（身体和意识变化）
 
@@ -53,9 +56,10 @@ Spoiler Alert!
 ## 人造生物
 
 
-- 所属作品：弗兰肯斯坦（）
-- 主创人员：
-- 创意设定：
+- 所属作品：弗兰肯斯坦（Frankenstein）
+- 主创人员：Mary Wollstonecraft Shelley
+- 创意设定：科学家创造了一个怪物，却不容于社会，被驱逐与追捕，于是怪物向人类复仇，与创造者同归于尽
+----------------------------------------------------------------
 
 ## 能力增强
 
@@ -78,6 +82,7 @@ Spoiler Alert!
 - 所属作品：千钧一发（Gattaca）
 - 主创人员：Andrew Niccol / Ethan Hawke / Jude Law / Uma Thurman
 - 创意设定：人类掌握了基因检测技术，并且基因决定了个人的能力和表现，由此从一出生就决定了个人的命运，社会开始歧视基因有缺陷的人。
+----------------------------------------------------------------
 
 
 ### 演化变异
@@ -86,6 +91,7 @@ Spoiler Alert!
 - 所属作品：与罗摩相会（ Rendezvous with Rama）
 - 主创人员：Arthur C. Clarke
 - 创意设定：宇宙飞船上的有机浓汤迅速演化形成生命、智慧生物和机器人
+----------------------------------------------------------------
 
 ## 长寿和永生
 
@@ -166,6 +172,7 @@ Spoiler Alert!
 - 所属作品：时间机器（the Time Machine）
 - 主创人员：Herbert George Wells
 - 创意设定：科学家研制并乘坐时间机器到未来旅行
+----------------------------------------------------------------
 
 ### 时间逆流
 
@@ -239,4 +246,6 @@ Spoiler Alert!
 银河系漫游指南，通用翻译机巴别鱼（babel fish）
 三体，二向箔，水滴
 三体，黑暗森林规则
+
+<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="知识共享许可协议" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png" /></a><br />本作品采用<a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">知识共享署名-相同方式共享 4.0 国际许可协议</a>进行许可。
 
