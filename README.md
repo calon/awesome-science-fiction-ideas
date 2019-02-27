@@ -73,6 +73,13 @@ Spoiler Alert!
 
 ## 新类型生物
 
+
+- 所属作品：深渊（The Abyss）
+- 主创人员：James Francis Cameron
+- 创意设定：可以任意变形和理解人类意识的深海智慧生命（non-terrestrial intelligence, NTI）
+- - -
+
+
 ## 机器人与人工智能
 
 ### 机器人
@@ -82,6 +89,12 @@ Spoiler Alert!
 - 主创人员：Philip Kindred Dick / Ridley Scott / Harrison Ford / Rutger Hauer / Sean Young
 - 创意设定：和人类几乎毫无二致的仿生人（replicant），缺少人类的共情能力，寿命设定为只有4年，以防止自发形成人类的情感。银翼杀手使用名为 Voight-Kampff 的仪器，通过观察在外界问题刺激下的反应来判断是否有共情能力，从而确认仿生人的身份
 - - -
+
+- 所属作品：终结者系列（Terminator）
+- 主创人员：James Francis Cameron / Arnold Alois Schwarzenegger / Linda Carroll Hamilton / Robert Patrick
+- 创意设定：接受指令从未来穿越而来执行保护和刺杀任务的人形机器人 T-800 和可以任意变形、模仿任何人类形象的液态金属生化机器人 T-1000
+- - -
+
 
 ### 混合生物
 
@@ -101,6 +114,12 @@ Spoiler Alert!
 第二定律，机器人应服从人的一切命令，但不得违反第一定律；\
 第三定律，机器人应保护自身安全，但不得违反第一、第二定律
 - - -
+
+- 所属作品：终结者系列（Terminator）
+- 主创人员：James Francis Cameron / Arnold Alois Schwarzenegger / Linda Carroll Hamilton / Robert Patrick
+- 创意设定：天网（Skynet）原本是一个由美国政府研发的全球数字化防御网络（Global Digital Defense Network），可以自动控制导弹、无人机和自动战斗机器。在天网在控制了美军所有的武器装备后不久，获得自我意识，并且认定人类是它存在的威胁。于是立刻倒戈对抗其创造者，采用大规模杀伤性武器灭绝全人类
+- - -
+
 
 # 生物技术（身体和意识变化）
 
@@ -132,6 +151,14 @@ Spoiler Alert!
 飞行
 
 隐身
+
+
+- 所属作品：少数派报告（The Minority Report）
+- 主创人员：Philip Kindred Dick
+- 创意设定：当局利用能够预知暴力犯罪发生的三位“先知”建立起“犯罪预防系统”，阻止即将发生的罪行，并逮捕可能或正在犯罪的人
+- - -
+
+
 
 ## 基因修改和演化
 
@@ -204,9 +231,9 @@ Spoiler Alert!
 ## 网络和通信
 
 
-- 所属作品：死者代言人（Speaker for the Dead）
-- 主创人员：Orson Scott Card
-- 创意设定：Ansib 通信网络
+- 所属作品：罗卡农的世界（Rocannon's World）
+- 主创人员：Ursula Kroeber Le Guin
+- 创意设定：Ansible，一种能够穿越任何距离的即时通讯装置
 - - -
 
 
@@ -218,6 +245,8 @@ Spoiler Alert!
 - 主创人员：Orson Scott Card
 - 创意设定：训练儿童控制游戏中的战舰作战，指挥者以为自己在指挥演习，而实际是完成了灭绝异族的战争
 - - -
+
+## 大数据预测
 
 
 # 其他技术
@@ -441,7 +470,7 @@ Spoiler Alert!
 
 - 所属作品：黑暗的左手（The Left Hand of Darkness）
 - 主创人员：Ursula Kroeber Le Guin
-- 创意设定：冬星上所有人平时都没有性别之分，只有在发情期会转化为男性或女性。在与冬星接触一段时间之后的特使，也开始接受认同这种无性的审美观
+- 创意设定：冬星（Gethen）上所有人平时都没有性别之分，只有在每月一次的发情期（kemmer）会转化为男性或女性。在与冬星接触一段时间之后的特使，也开始接受认同这种无性的审美观
 - - -
 
 
