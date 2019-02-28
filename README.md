@@ -1,6 +1,6 @@
 # awesome-science-fiction-ideas
 
-该项目的目的：收集有开创性、独特性和影响力的科学幻想创意设定，以科幻小说为主，包括科幻影视作品和游戏。
+该项目的目的：收集有开创性、独特性和影响力的科学幻想创意设定，以科幻小说为主，包括科幻影视、漫画、游戏和一些学术思考。
 
 基本格式：
 
@@ -31,7 +31,7 @@ Spoiler Alert!
 
 ## 外星人
 
-- 所属作品：世界大战（the War of the Worlds）
+- 所属作品：世界大战（The War of the Worlds）
 - 主创人员：Herbert George Wells
 - 创意设定：来自火星的外星人，屠杀地球人，意图侵占地球
 - - -
@@ -152,6 +152,10 @@ Spoiler Alert!
 
 隐身
 
+- 所属作品：隐身人（The Invisible Man）
+- 主创人员：Herbert George Wells
+- 创意设定：一位研究光学的科学家，发明了一种改变身体折射光线的方法，使其既不吸收也不反射光，从而变得不可见。他具备隐身能力后，利用其能力为非作歹，甚至想建立恐怖统治，最终在行凶时被反抗的人杀死
+- - -
 
 - 所属作品：少数派报告（The Minority Report）
 - 主创人员：Philip Kindred Dick
@@ -295,7 +299,13 @@ Spoiler Alert!
 
 ## 城市与建筑
 
-## 地下城市
+## 地下世界
+
+
+- 所属作品：地心游记（Journey to the Center of the Earth / Voyage au centre de la terre）
+- 主创人员：Jules Gabriel Verne
+- 创意设定：进行穿越地心的探险旅行，从冰岛进入，从西西里岛的火山回到地面。
+- - -
 
 ## 海上或海底城市
 
@@ -380,12 +390,11 @@ Spoiler Alert!
 
 ### 空想政治制度
 
-共产主义
+#### 共产主义
 
-技术乌托邦
+#### 技术乌托邦
 
-反乌托邦
-
+#### 反乌托邦
 
 - 所属作品：华氏451（Fahrenheit 451）
 - 主创人员：Ray Bradbury
@@ -400,15 +409,15 @@ Spoiler Alert!
 
 ### 现实政治制度变体
 
-奴隶制度变体
+#### 奴隶制度变体
 
-封建主义变体
+#### 封建主义变体
 
-专制帝国变体
+#### 专制帝国变体
 
-资本主义变体
+#### 资本主义变体
 
-无政府主义变体
+#### 无政府主义变体
 
 - 所属作品：雪崩（Snow Crash）
 - 主创人员：Neal Town Stephenson
@@ -476,6 +485,11 @@ Spoiler Alert!
 
 ## 哲学
 
+
+- 所属作品：理想国（The Republic）
+- 主创人员：Plato
+- 创意设定：洞穴比喻，地下洞穴中终身关押着一些囚犯，只能朝前看到洞穴的墙壁，身后远方高处燃烧着火，囚犯与火焰之间有看守者活动。囚犯只能看见投射在墙上的光和影，视其为真实世界的形象与活动，并从中发现规律、创建学问、做出预测。如果给囚犯松绑，让他转过头去看到背后的情形，走出洞穴看到太阳、星星和更多新鲜事物，他会如何反应？
+- - -
 
 - 所属作品：黑客帝国系列（The Matrix）
 - 主创人员：Lilly Wachowski / Lana Wachowski/ Keanu Reeves / Hugo Weaving / Carrie-Anne Moss
