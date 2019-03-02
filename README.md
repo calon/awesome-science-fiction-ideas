@@ -48,7 +48,7 @@ Spoiler Alert!
 
 
 - 所属作品：太空漫游2001（2001: A Space Odyssey）
-- 主创人员：Arthur C. Clarke / Stanley Kubrick
+- 主创人员：Arthur Clarke / Stanley Kubrick
 - 创意设定：引导生命演化和新生的黑方碑（monolith）
 - - -
 
@@ -81,12 +81,12 @@ Spoiler Alert!
 - - -
 
 - 所属作品：洄游
-- 主创人员：Derek Stéphane Künsken
+- 主创人员：Derek Künsken
 - 创意设定：可以在星际空间生存的非碳基生物，沐浴脉冲星之光而生，以放射性同位素为食。一代又一代在星际间洄游，以黑洞为质量加速场，用时间膨胀效应甩开天敌
 - - -
 
 - 所属作品：火星上的思想剽窃者（The Brain Stealers of Mars）
-- 主创人员：John Wood Campbell Jr.
+- 主创人员：John Campbell Jr.
 - 创意设定：由一种适应力特强的原生质联结构成的火星生物（thushol），能根据从人类头脑中得知的生物构造知识，编排自己的原生质，模仿外形，构造器官，直至与被模仿生物一模一样
 - - -
 
@@ -94,7 +94,7 @@ Spoiler Alert!
 
 
 - 所属作品：深渊（The Abyss）
-- 主创人员：James Francis Cameron
+- 主创人员：James Cameron
 - 创意设定：可以任意变形和理解人类意识的深海智慧生命（non-terrestrial intelligence, NTI）
 - - -
 
@@ -105,22 +105,27 @@ Spoiler Alert!
 
 
 - 所属作品：仿生人会梦见电子羊吗？（Do Androids Dream of Electric Sheep?） / 银翼杀手（Blade Runner）
-- 主创人员：Philip Kindred Dick / Ridley Scott / Harrison Ford / Rutger Hauer / Sean Young
+- 主创人员：Philip Dick / Ridley Scott / Harrison Ford / Rutger Hauer / Sean Young
 - 创意设定：和人类几乎毫无二致的仿生人（replicant），缺少人类的共情能力，寿命设定为只有4年，以防止自发形成人类的情感。银翼杀手使用名为 Voight-Kampff 的仪器，通过观察受测者在外界问题刺激下的反应来判断其是否具有共情能力，从而确认仿生人的身份
 - - -
 
 - 所属作品：终结者系列（Terminator）
-- 主创人员：James Francis Cameron / Arnold Alois Schwarzenegger / Linda Carroll Hamilton / Robert Patrick
+- 主创人员：John Crichton / Yul Brynner
 - 创意设定：接受指令从未来穿越而来执行保护、刺杀任务的机器人，如人形机器人 T-800 和可以任意变形、模仿任何人类形象的液态金属生化机器人 T-1000
 - - -
 
+
+- 所属作品：西部世界/血洗乐园（Westworld）
+- 主创人员：James Cameron / Arnold Schwarzenegger / Linda Hamilton / Robert Patrick
+- 创意设定：高科技成人乐园 Delos 中有西部世界，罗马世界，中世纪世界三大主题版块的机器人世界，满足游客杀戮与性欲的需求，乐园渐渐失去了对机器人的控制，机器人开始追杀游客
+- - -
 
 ### 混合生物
 
 ### 人工智能
 
 - 所属作品：太空漫游2001（2001: A Space Odyssey）
-- 主创人员：Arthur C. Clarke / Stanley Kubrick
+- 主创人员：Arthur Clarke / Stanley Kubrick
 - 创意设定：自认为绝对正确，欺骗和杀死人类的人工智能电脑 H.A.L. 9000
 - - -
 
@@ -135,7 +140,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：终结者系列（Terminator）
-- 主创人员：James Francis Cameron / Arnold Alois Schwarzenegger / Linda Carroll Hamilton / Robert Patrick
+- 主创人员：James Cameron / Arnold Schwarzenegger / Linda Hamilton / Robert Patrick
 - 创意设定：天网（Skynet）原本是一个由美国政府研发的全球数字化防御网络（Global Digital Defense Network），可以自动控制导弹、无人机和自动战斗机器。在天网在控制了美军所有的武器装备后不久，获得自我意识，并且认定人类是它存在的威胁。于是立刻倒戈对抗其创造者，采用大规模杀伤性武器灭绝全人类
 - - -
 
@@ -147,7 +152,7 @@ Spoiler Alert!
 
 
 - 所属作品：弗兰肯斯坦（Frankenstein）
-- 主创人员：Mary Wollstonecraft Shelley
+- 主创人员：Mary Shelley
 - 创意设定：科学家弗兰肯斯坦将各处搜集而来的人类肢体、动物器官拼接而成，创造了一个面目可憎的怪物，被自己作品吓到的弗兰肯斯坦抛下怪物落荒而逃。怪物尝试融入社会却不被接纳，被驱逐与追捕，于是怪物报复创造者弗兰肯斯坦，最终与创造者同归于尽
 - - -
 
@@ -177,7 +182,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：少数派报告（The Minority Report）
-- 主创人员：Philip Kindred Dick
+- 主创人员：Philip Dick
 - 创意设定：当局利用能够预知暴力犯罪发生的三位“先知”建立起“犯罪预防系统”，阻止即将发生的罪行，并逮捕可能或正在犯罪的人
 - - -
 
@@ -197,7 +202,7 @@ Spoiler Alert!
 
 
 - 所属作品：与罗摩相会（Rendezvous with Rama）
-- 主创人员：Arthur C. Clarke
+- 主创人员：Arthur Clarke
 - 创意设定：宇宙飞船上的有机浓汤迅速演化形成生命、智慧生物和机器人
 - - -
 
@@ -214,8 +219,13 @@ Spoiler Alert!
 
 
 - 所属作品：仿生人会梦见电子羊吗？（Do Androids Dream of Electric Sheep?） / 银翼杀手（Blade Runner）
-- 主创人员：Philip Kindred Dick / Ridley Scott / Harrison Ford / Rutger Hauer / Sean Young
+- 主创人员：Philip Dick / Ridley Scott / Harrison Ford / Rutger Hauer / Sean Young
 - 创意设定：将真人的记忆移植到仿生人的大脑，使仿真人相信自己是真正的人类，以便通过 Voight-Kampff 仪器的测试
+- - -
+
+- 所属作品：黑衣人系列（Men in Black）
+- 主创人员：Barry Sonnenfeld / Will Smith / Tommy Lee Jones
+- 创意设定：使用某种闪光道具，看到闪光的人，一段记忆将被消除，不知道刚才发生的事
 - - -
 
 ## 精神控制
@@ -236,7 +246,7 @@ Spoiler Alert!
 
 
 - 所属作品：仿生人会梦见电子羊吗？（Do Androids Dream of Electric Sheep?）
-- 主创人员：Philip Kindred Dick
+- 主创人员：Philip Dick
 - 创意设定：默瑟的共情箱（Wilbur Mercer's empathy boxes），人类可以通过共情箱体验所有人类连接一体的神秘共情感受
 - - -
 
@@ -255,7 +265,7 @@ Spoiler Alert!
 ## 人机接口
 
 - 所属作品：神经浪游者（Neuromancer）
-- 主创人员：William Ford Gibson
+- 主创人员：William Gibson
 - 创意设定：人们可以通过计算机空间（Cyberspace）的接口接入一种由机器环境构成的全球数据网络，将自己的非实体意识映射入被称之为 Matrix 的交感幻象中
 - - -
 
@@ -263,7 +273,7 @@ Spoiler Alert!
 
 
 - 所属作品：罗卡农的世界（Rocannon's World）
-- 主创人员：Ursula Kroeber Le Guin
+- 主创人员：Ursula Le Guin
 - 创意设定：Ansible，一种能够穿越任何距离的即时通讯装置
 - - -
 
@@ -297,7 +307,7 @@ Spoiler Alert!
 ## 海洋和水下航行
 
 - 所属作品：海底两万里（Twenty Thousand Leagues Under the Sea / Vingt mille lieues sous les mers）
-- 主创人员：Jules Gabriel Verne
+- 主创人员：Jules Verne
 - 创意设定：名为“鹦鹉螺”的潜水艇，可以长时间在海底航行
 - - -
 
@@ -305,7 +315,7 @@ Spoiler Alert!
 
 
 - 所属作品：从地球到月球（From the Earth to the Moon / De la Terre à la Lune）
-- 主创人员：Jules Gabriel Verne
+- 主创人员：Jules Verne
 - 创意设定：使用火箭大炮将人类发射到月球上
 - - -
 
@@ -329,7 +339,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：严厉的月亮/月亮是个严厉的女人（The Moon Is a Harsh Mistress）
-- 主创人员：Robert Anson Heinlein
+- 主创人员：Robert Heinlein
 - 创意设定：利用引力差异，从月球向地球抛掷石块
 - - -
 
@@ -345,17 +355,18 @@ Spoiler Alert!
 
 ## 城市与建筑
 
-## 地下世界
-
+### 地下世界
 
 - 所属作品：地心游记（Journey to the Center of the Earth / Voyage au centre de la terre）
-- 主创人员：Jules Gabriel Verne
+- 主创人员：Jules Verne
 - 创意设定：进行穿越地心的探险旅行，从冰岛进入，从西西里岛的火山回到地面。
 - - -
 
-## 海上或海底城市
+### 海上或海底城市
 
-## 天空城市
+### 天空城市
+
+### 生物城市
 
 ## 太空殖民
 
@@ -373,12 +384,9 @@ Spoiler Alert!
 - - -
 
 - 所属作品：雪崩（Snow Crash）
-- 主创人员：Neal Town Stephenson
+- 主创人员：Neal Stephenson
 - 创意设定：虚拟实境（Metaverse），是和社会紧密联系的三维数字空间，与现实世界平行，在现实世界中地理位置彼此隔绝的人们可以通过各自的“化身”进行交流娱乐。名叫“雪崩”的药物，实际上是一种电脑病毒，不仅能在网络上传播，还能在现实生活中扩散，造成系统崩溃和头脑失灵
 - - -
-
-
-## 生物城市
 
 ## 灾难与末世
 
@@ -388,7 +396,7 @@ Spoiler Alert!
 
 
 - 所属作品：莱博维茨的赞歌（A Canticle for Leibowitz）
-- 主创人员：Walter Michael Miller Jr.
+- 主创人员：Walter Miller Jr.
 - 创意设定：核战的烈焰和辐射尘埃，让人类退化到蒙昧时代，文明全面崩溃，幸存者们只相当于中世纪的知识和生活水平。大部分人认为是科学技术导致战争和倒退，自称为傻瓜，失去了理性，憎恨一切科学技术
 - - -
 
@@ -462,6 +470,13 @@ Spoiler Alert!
 
 #### 反乌托邦
 
+
+- 所属作品：大都会（Metropolis）
+- 主创人员：Fritz Lang / Thea von Harbou
+- 创意设定：在未来的大都会里社会分为两个阶层。建立并策划了整个城市赖以运转的庞大机器的资本家，他们生活在富丽堂皇的摩天大厦之内；靠劳动以双手建立了机器并日夜维护的则是广大的工人团体，他们群居于黑暗的地下城
+- - -
+
+
 - 所属作品：华氏451（Fahrenheit 451）
 - 主创人员：Ray Bradbury
 - 创意设定：许多人浅薄无知，沉迷于肉体的享乐和感官的刺激，对书籍几乎有一种本能的恐惧与癫狂，接受不了任何稍稍深入的思考，接受不了任何稍有内涵的信息，认为书只会让人迷失。消防员的工作不是救火，而是烧毁与人类文明相关的、显露着人类智慧的、具有文学特色的违禁书籍。而有的人有惊人的记忆力，看完就烧掉书，把内容记在心里
@@ -486,7 +501,7 @@ Spoiler Alert!
 #### 无政府主义变体
 
 - 所属作品：雪崩（Snow Crash）
-- 主创人员：Neal Town Stephenson
+- 主创人员：Neal Stephenson
 - 创意设定：未来的美国联邦政府将大部分权力给予了私人企业家和组织，国家安全交付给了雇佣军队，大部分的土地被私人瓜分，并建立了个人领地
 - - -
 
@@ -497,7 +512,7 @@ Spoiler Alert!
 军国主义变体
 
 - 所属作品：星船伞兵（Starship Troopers）
-- 主创人员：Robert Anson Heinlein
+- 主创人员：Robert Heinlein
 - 创意设定：公民权与责任匹配。公民有选举以及被选举权，平民没有。必须参军上战场与虫族战斗过才拥有公民权。没有公民权的平民无需为社会负责；先为社会承担责任，才能获得应有的权力
 - - -
 
@@ -512,7 +527,7 @@ Spoiler Alert!
 #### 翻译
 
 - 所属作品：银河系漫游指南/银河系搭车客指南（The Hitchhiker's Guide to the Galaxy）
-- 主创人员：Douglas Noel Adams
+- 主创人员：Douglas Adams
 - 创意设定：通用翻译机巴别鱼（babel fish），形似水蛭的生物，塞入耳中使用，接收他人的脑电波，无论任何语言，都可以翻译为佩戴者可以理解的脑电波
 - - -
 
@@ -549,7 +564,7 @@ Spoiler Alert!
 
 
 - 所属作品：黑暗的左手（The Left Hand of Darkness）
-- 主创人员：Ursula Kroeber Le Guin
+- 主创人员：Ursula Le Guin
 - 创意设定：冬星（Gethen）上所有人平时都没有性别之分，只有在每月一次的发情期（kemmer）会转化为男性或女性。在与冬星接触一段时间之后的特使，也开始接受认同这种无性的审美观
 - - -
 
@@ -576,12 +591,12 @@ Spoiler Alert!
 
 
 - 所属作品：莱博维茨的赞歌（A Canticle for Leibowitz）
-- 主创人员：Walter Michael Miller Jr.
+- 主创人员：Walter Miller Jr.
 - 创意设定：在核战后的蒙昧时代，大多数人仇视科学技术，少数人以宗教的形式保存、学习和传承科学技术与人类文明
 - - -
 
 - 所属作品：光明王（Lord of Light）
-- 主创人员：Roger Joseph Zelazny
+- 主创人员：Roger Zelazny
 - 创意设定：掌握高科技的人类殖民者自居为天神，通过意识传输进行“转世轮回”，保持永生不死。他们的后代成为匍匐在神坛之下的凡人。天神通过种姓制度将凡人分成不同等级，凡人尊奉教义向天神效忠、奉献，便能逐步提升自己的种姓，直至成为半神甚至天神，不服教义者则遭受惩罚，甚至不允许转世而遭受真正的死亡。天神垄断技术，不让凡人得到，以保证凡人永远蒙昧；而反抗者传播人人平等的思想，帮助凡人与天神抗争
 - - -
 
@@ -596,7 +611,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：高堡奇人（The Man in The High Castle）
-- 主创人员：Philip Kindred Dick
+- 主创人员：Philip Dick
 - 创意设定：假想二战是盟国战败，纳粹德国和日本瓜分了世界，并分别占据一部分美国的领土，建立新的秩序
 - - -
 
