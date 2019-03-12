@@ -14,7 +14,7 @@
 - 创意设定：
 - - -
 
-如果要寻找值得一看的科幻作品，可以查看：[Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi)
+如果要寻找值得一看的科幻作品，可以查看：[Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi)\
 同时欢迎参与编辑“仰望星空”科幻微信群的[科幻电影/书籍/游戏推荐清单](https://shimo.im/docs/IVI6WXUgXswJnxe0)
 
 警告，以下内容涉及严重剧透！\
@@ -630,6 +630,11 @@ Spoiler Alert!
 - 所属作品：死者代言人（Speaker for the Dead）
 - 主创人员：Orson Scott Card
 - 创意设定：成年的男性猪仔变成一颗父亲树，将相当于精液的粉尘放在树干上和树液中。猪仔的雌性很早就达到性成熟，相当于人类婴儿时期就可以繁衍，被放置在选定的父亲树上，在往上爬的过程中让树液中的粉尘进入身体而怀孕。新生儿以自己母亲的躯体为食，少数雌性存活到成年，变成一颗母亲树，给新生儿哺育树液
+- - -
+
+- 所属作品：袋鼠男人
+- 主创人员：李黎
+- 创意设定：男性通过人造子宫替不孕的妻子怀孕
 - - -
 
 #### 性别
