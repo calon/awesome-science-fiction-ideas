@@ -50,7 +50,7 @@ Spoiler Alert!
 - - -
 
 
-- 所属作品：太空漫游2001（2001: A Space Odyssey）
+- 所属作品：太空漫游系列（Space Odyssey）
 - 主创人员：Arthur Clarke / Stanley Kubrick
 - 创意设定：引导生命演化和新生的黑方碑（monolith）
 - - -
@@ -150,7 +150,7 @@ Spoiler Alert!
 
 ### 人工智能
 
-- 所属作品：太空漫游2001（2001: A Space Odyssey）
+- 所属作品：太空漫游系列（Space Odyssey）
 - 主创人员：Arthur Clarke / Stanley Kubrick
 - 创意设定：自认为绝对正确，欺骗和杀死人类的人工智能电脑 H.A.L. 9000
 - - -
@@ -340,6 +340,12 @@ Spoiler Alert!
 - 创意设定：思动（jaunting），把人体物质转化为能量到达目的地时再转化为物质，用于实现身体的瞬间移动
 - - -
 
+## 虫洞（Einstein–Rosen 桥）
+
+- 所属作品：接触（Contact）
+- 主创人员：Carl Sagan
+- 创意设定：人类在外星人发来的信息指导下，建造了十二面体航行器，五名宇航员乘坐航行器,通过一系列虫洞组成的运输系统,瞬间前往银河系中心附近的巨大交通站点
+- - -
 
 ## 超光速或光速太空航行
 
@@ -350,6 +356,21 @@ Spoiler Alert!
 - - -
 
 ## 亚光速太空航行
+
+- 所属作品：世界、众生与恶魔（The World, the Flesh, and the Devil）
+- 主创人员：John Desmond Bernal
+- 创意设定：火箭先驱 Robert H. Goddard 的《The Last Migration》提出超长时间星际旅行的想法，航天理论之父 Konstantin E. Tsiolkovsky 在《The Future of Earth and Mankind》中提出，在耗时数千年的太空殖民航行过程中，需要考虑满足乘员延续许多世代的需求；最终 Bernal 提出“世代星舰”的概念：建立小型人工封闭生态系统，完全自我维持，长期可靠地供应能源、食物、空气和水，还要考虑飞船上的社会和心理问题
+- - -
+
+- 所属作品：遥远的半人马座（Far Centaurus）
+- 主创人员：A. E. van Vogt
+- 创意设定：人类发明了名为 Eternity 的药物，可使身体进入持续数十年的冬眠状态，于是建造核动力飞船，计划花500年时间，飞向半人马座的阿尔法星。但在到达后，发现人类已经发展出了只要3小时就可以到达半人马座的技术
+- - -
+
+- 所属作品：太空漫游系列（Space Odyssey）
+- 主创人员：Arthur Clarke / Stanley Kubrick
+- 创意设定：宇航员在冬眠舱中进入类似于冬眠的状态，以降低消耗，减缓生命的流逝
+- - -
 
 ## 飞行器
 
