@@ -252,7 +252,17 @@ Spoiler Alert!
 - 创意设定：使用某种闪光道具，看到闪光的人，一段记忆将被消除，不知道刚才发生的事
 - - -
 
+- 所属作品：太空神曲（Stronger than Time/Сильнее времени）
+- 主创人员：Alexander Kazantsev
+- 创意设定：可以保存并唤醒人类的记忆，但唤醒的记忆部分是随机的
+- - -
+
 ## 精神控制
+
+- 所属作品：发条橙（A Clockwork Orange）
+- 主创人员：Anthony Burgess / Stanley Kubrick
+- 创意设定：一个生活在英国未来社会的问题少年，由于青春期躁动走上犯罪道路，后受到社会制裁，使用厌恶疗法改造其心理，剥夺其自由意志。经过思考与改造，他重新融入社会，意识到自己不过是上帝手中的一只发条橙
+- - -
 
 ## 多重人格
 
@@ -470,11 +480,16 @@ Spoiler Alert!
 
 # 生存环境
 
-## 气候变化
+## 改变环境
 
 - 所属作品：旋转乾坤（The Purchase of the North Pole/Topsy-Turvy/Sans dessus dessous）
 - 主创人员：Jules Verne
 - 创意设定：尝试用大炮发射的力量改变地球轴线倾角和气候
+- - -
+
+- 所属作品：太空神曲（Stronger than Time/Сильнее времени）
+- 主创人员：Alexander Kazantsev
+- 创意设定：用氙气代替氮气，为引力较小的月球制造大气
 - - -
 
 ## 城市与建筑
@@ -798,7 +813,7 @@ Spoiler Alert!
 - - -
 
 
-## 宗教
+## 宗教伦理
 
 
 - 所属作品：莱博维茨的赞歌（A Canticle for Leibowitz）
@@ -819,6 +834,11 @@ Spoiler Alert!
 - 所属作品：海伯利安系列（Hyperion Cantos）
 - 主创人员：Dan Simmons
 - 创意设定：十字形的寄生生物可以与寄主融合为一体，宿主死亡后，寄生生物可以复活宿主，但经过多次复活，宿主会越来越丧失心智并变成雌雄同体的状态。海伯利安上的 Bikura 人因为被寄生，身上都显现十字形组织的标记，并因此产生某种宗教——Church of the Final Atonement。Bikura 人看到放逐而来的 Duré神父身上没有这种标记，于是杀死神父,带到光阴冢的伯劳（Shrike）处，种下十字形寄生物。神父复活后，拼命想要摆脱十字形寄生物，将自己钉在特斯拉树上，不断死亡和复活，形如永恒的赎罪
+- - -
+
+- 所属作品：作神难（Hard to Be a God）
+- 主创人员：Arkady Strugatsky / Boris Strugatsky
+- 创意设定：星际探险家到相当于处于中世纪时期文明的外星进行科学考察，按规定不应该影响当地的文明进程，但目睹落后文化的黑暗现象，又无法袖手旁观
 - - -
 
 ## 历史
