@@ -105,6 +105,11 @@ Spoiler Alert!
 - 创意设定：无形的外星人入侵了地球，并随意寄生和控制人类。他们的寄生通常只会维持几天时间，在这段时间里，他们利用人类的身躯狂欢作乐，肆意破坏。当他们离开后，被寄生的人类不会留下任何记忆
 - - -
 
+- 所属作品：沙丘系列（Dune）
+- 主创人员：Frank Herbert
+- 创意设定：沙虫（Sandworm）是生活在沙漠星球 Arrakis 地下的巨型蠕虫生物，身体坚固，被攻击截断后，每一段都能够独自生长。在沙中挖洞前进，通过感知振动和声音来发现和捕食猎物。沙虫可以产生宝贵的香料
+- - -
+
 ## 新类型生物
 
 
@@ -113,16 +118,20 @@ Spoiler Alert!
 - 创意设定：可以任意变形和理解人类意识的深海智慧生命（non-terrestrial intelligence, NTI）
 - - -
 
-
-- 所属作品：沙丘系列（Dune）
-- 主创人员：Frank Herbert
-- 创意设定：沙虫（Sandworm）是生活在沙漠星球 Arrakis 地下的巨型蠕虫生物，身体坚固，被攻击截断后，每一段都能够独自生长。在沙中挖洞前进，通过感知振动和声音来发现和捕食猎物。沙虫可以产生宝贵的香料
+- 所属作品：鲵鱼之乱（War with the Newts/War with the Salamanders/Válka s Mloky）
+- 主创人员：Karel Čapek
+- 创意设定：人类发现了一种新类型生物，长得像人的鲵鱼，教会了他们使用人类的技术与工具，使用语言。人类奴役和利用鲵鱼，而鲵鱼则发展出了自己的社会体系和文化，因为需要扩张自己的生存空间，摧毁陆地，屠杀人类，最终发起全面战争，人类面临末日。
 - - -
 
 ## 机器人与人工智能
 
 ### 机器人
 
+
+- 所属作品：罗梭的全能机器人（Rossum's Universal Robots/Rossumovi Univerzální Roboti）
+- 主创人员：Karel Čapek
+- 创意设定：罗梭（Rossum，来自捷克语中的 rozum, 意思是“理性”，“智慧”，“智力”或“常识”）创立的工厂用有机合成物制造人造人（robot）。人造人外表和人类无异，但没有情感和自我意志，任凭人类安排默默干活和报废。人道联盟（League of Humanity）主席 Helena Glory 参观工厂后，说服工程师为人造人加上了自由意志，有了自己的思想。结果人造人反抗人类，导致人类灭亡。最终一对相爱的男女人造人成为了新世界的亚当和夏娃。
+- - -
 
 - 所属作品：仿生人会梦见电子羊吗？（Do Androids Dream of Electric Sheep?）/银翼杀手（Blade Runner）
 - 主创人员：Philip Dick / Ridley Scott / Harrison Ford / Rutger Hauer / Sean Young
