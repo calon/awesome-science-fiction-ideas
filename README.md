@@ -139,13 +139,13 @@ Spoiler Alert!
 - - -
 
 - 所属作品：终结者系列（Terminator）
-- 主创人员：John Crichton / Yul Brynner
+- 主创人员：James Cameron / Arnold Schwarzenegger / Linda Hamilton / Robert Patrick
 - 创意设定：接受指令从未来穿越而来执行保护、刺杀任务的机器人，如人形机器人 T-800 和可以任意变形、模仿任何人类形象的液态金属生化机器人 T-1000
 - - -
 
 
 - 所属作品：西部世界/血洗乐园（Westworld）
-- 主创人员：James Cameron / Arnold Schwarzenegger / Linda Hamilton / Robert Patrick
+- 主创人员：John Crichton / Yul Brynner
 - 创意设定：高科技成人乐园 Delos 中有西部世界，罗马世界，中世纪世界三大主题版块的机器人世界，满足游客杀戮与性欲的需求，乐园渐渐失去了对机器人的控制，机器人开始追杀游客
 - - -
 
@@ -215,6 +215,10 @@ Spoiler Alert!
 - 创意设定：人类掌握了基因检测技术，并且基因决定了个人的能力和表现，由此从一出生就决定了个人的命运，社会开始歧视基因有缺陷的人
 - - -
 
+- 所属作品：侏罗纪公园系列（Jurassic Park）
+- 主创人员：Michael Crichton / Steven Spielberg
+- 创意设定：利用琥珀里面困住的远古蚊子体内的血液，提取出恐龙的基因信息，结合其他生物基因，培育繁殖和改造恐龙。
+- - -
 
 ### 演化变异
 
