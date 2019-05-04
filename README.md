@@ -163,6 +163,10 @@ Spoiler Alert!
 - 创意设定：自认为绝对正确，欺骗和杀死人类的人工智能电脑 H.A.L. 9000
 - - -
 
+- 所属作品：无声狂啸（I Have No Mouth, and I Must Scream）
+- 主创人员：Harlan Ellison
+- 创意设定：冷战中的超级大国发展出超级人工智能 AM，它怀着仇恨灭绝人类，只留下5个人在无尽的时间里不断折磨，求生不得，求死不能。
+- - -
 
 - 所属作品：我，机器人（I, Robot）
 - 主创人员：Isaac Asimov
