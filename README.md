@@ -32,7 +32,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：路边野餐（Roadside Picnic）
-- 主创人员：Arkady Strugatsky / Boris Strugatsky
+- 主创人员：Arkady Strugatsky/Boris Strugatsky
 - 创意设定：高等级技术的外星人路过地球享用野餐，丢下的垃圾形成造访带，却对低等级技术的地球人造成巨大影响，如同人类在路边野餐影响蚂蚁。造访带中充满地球人无法理解的神秘物体和现象：无需蓄电可自我繁殖的永续电池，可以扭曲时间和空间的黑色喷剂，能实现愿望的金球，具有强大引力的蚊疥点，可以穿越任何有机物质的果冻，无形中致人死命的绞肉机，等等。人类恐惧没有目的性的、残酷的客观存在
 - - -
 
@@ -51,11 +51,11 @@ Spoiler Alert!
 
 - 所属作品：火星漫游（A Martian Odyssey）
 - 主创人员：Stanley G. Weinbaum
-- 创意设定：火星上一种外形有点像鸟类和人类的生物 Tweel，大脑在胸部位置，他们不睡觉也不像动物一样吃喝，而是利用喙在火星土壤中像植物一样获得营养，通常采用长距离跳跃的形式移动。Tweel 有智慧，曾经有先进的技术，但因为耗尽火星的资源而衰落，他们有自己的语言和文字，其特色是每次都不会以相同的形式描述同一个事物。还有叫做梦想兽（dream-beast）的触手生物，通过在猎物的脑海中制造幻影来捕猎。
+- 创意设定：火星上一种外形有点像鸟类和人类的生物 Tweel，大脑在胸部位置，他们不睡觉也不像动物一样吃喝，而是利用喙在火星土壤中像植物一样获得营养，通常采用长距离跳跃的形式移动。Tweel 有智慧，曾经有先进的技术，但因为耗尽火星的资源而衰落，他们有自己的语言和文字，其特色是每次都不会以相同的形式描述同一个事物。还有叫做梦想兽（dream-beast）的触手生物，通过在猎物的脑海中制造幻影来捕猎
 - - -
 
 - 所属作品：太空漫游系列（Space Odyssey）
-- 主创人员：Arthur Clarke / Stanley Kubrick
+- 主创人员：Arthur Clarke/Stanley Kubrick
 - 创意设定：引导生命演化和新生的黑方碑（monolith）
 - - -
 
@@ -65,7 +65,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：E.T. 外星人（E.T.: The Extra-Terrestrial）
-- 主创人员：Steven Spielberg / Melissa Mathison
+- 主创人员：Steven Spielberg/Melissa Mathison
 - 创意设定：具有特异功能的善意外星人
 - - -
 
@@ -91,7 +91,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：异形（Alien）
-- 主创人员：Ridley Scott / Hans Ruedi Giger / Sigourney Weaver
+- 主创人员：Ridley Scott/Hans Ruedi Giger/Sigourney Weaver
 - 创意设定：太空中的寄生生物，幼虫可以抱住人脸强行侵入体内，在身体中孵化，从腹部钻出，成长为战斗力极强的成年体，有类似于蚂蚁的社会性
 - - -
 
@@ -115,18 +115,34 @@ Spoiler Alert!
 - 创意设定：沙虫（Sandworm）是生活在沙漠星球 Arrakis 地下的巨型蠕虫生物，身体坚固，被攻击截断后，每一段都能够独自生长。在沙中挖洞前进，通过感知振动和声音来发现和捕食猎物。沙虫可以产生宝贵的香料
 - - -
 
-## 新类型生物
+## 幻想生物
 
+
+- 所属作品：鲵鱼之乱（War with the Newts/War with the Salamanders/Válka s Mloky）
+- 主创人员：Karel Čapek
+- 创意设定：人类发现了一种新类型生物，长得像人的鲵鱼，教会了他们使用人类的技术与工具，使用语言。人类奴役和利用鲵鱼，而鲵鱼则发展出了自己的社会体系和文化，因为需要扩张自己的生存空间，摧毁陆地，屠杀人类，最终发起全面战争，人类面临末日
+- - -
+
+- 所属作品：雾号角（The Fog Horn）
+- 主创人员：Ray Bradbury
+- 创意设定：灯塔的雾号角吸引来了一只海怪，因为海怪以为是同类发出的声音。人们只好关闭了雾号角，并且推测，只有当人类从世界上消失后，海怪才会再次现身寻找其他同类
+- - -
+
+- 所属作品：原子怪兽（The Beast from 20,000 Fathoms/Monster from Beneath the Sea）
+- 主创人员：Ray Bradbury/Fred Freiberger/Eugène Lourié
+- 创意设定：北极圈的原子弹试验，惊醒了沉睡一亿四千年的恐龙 Rhedosaurus，它为了产卵而入侵人类世界，并带来了致命病毒
+- - -
+
+- 所属作品：哥斯拉（Godzilla）
+- 主创人员：本多猪四郎/村田武雄
+- 创意设定：潜藏海底的太古怪兽哥斯拉由于氢弹试爆而觉醒，袭击日本首都东京。芹泽大助博士担忧用于杀死哥斯拉的氧气破坏装置遭到滥用，选择了与装置一同毁灭。如果人类再继续进行核试验，哥斯拉的同类还会再出现
+- - -
 
 - 所属作品：深渊（The Abyss）
 - 主创人员：James Cameron
 - 创意设定：可以任意变形和理解人类意识的深海智慧生命（non-terrestrial intelligence, NTI）
 - - -
 
-- 所属作品：鲵鱼之乱（War with the Newts/War with the Salamanders/Válka s Mloky）
-- 主创人员：Karel Čapek
-- 创意设定：人类发现了一种新类型生物，长得像人的鲵鱼，教会了他们使用人类的技术与工具，使用语言。人类奴役和利用鲵鱼，而鲵鱼则发展出了自己的社会体系和文化，因为需要扩张自己的生存空间，摧毁陆地，屠杀人类，最终发起全面战争，人类面临末日。
-- - -
 
 ## 机器人与人工智能
 
@@ -135,52 +151,52 @@ Spoiler Alert!
 
 - 所属作品：罗梭的全能机器人（Rossum's Universal Robots/Rossumovi Univerzální Roboti）
 - 主创人员：Karel Čapek
-- 创意设定：罗梭（Rossum，来自捷克语中的 rozum, 意思是“理性”，“智慧”，“智力”或“常识”）创立的工厂用有机合成物制造人造人（robot）。人造人外表和人类无异，但没有情感和自我意志，任凭人类安排默默干活和报废。人道联盟（League of Humanity）主席 Helena Glory 参观工厂后，说服工程师为人造人加上了自由意志，有了自己的思想。结果人造人反抗人类，导致人类灭亡。最终一对相爱的男女人造人成为了新世界的亚当和夏娃。
+- 创意设定：罗梭（Rossum，来自捷克语中的 rozum, 意思是“理性”，“智慧”，“智力”或“常识”）创立的工厂用有机合成物制造人造人（robot）。人造人外表和人类无异，但没有情感和自我意志，任凭人类安排默默干活和报废。人道联盟（League of Humanity）主席 Helena Glory 参观工厂后，说服工程师为人造人加上了自由意志，有了自己的思想。结果人造人反抗人类，导致人类灭亡。最终一对相爱的男女人造人成为了新世界的亚当和夏娃
 - - -
 
 - 所属作品：仿生人会梦见电子羊吗？（Do Androids Dream of Electric Sheep?）/银翼杀手（Blade Runner）
-- 主创人员：Philip Dick / Ridley Scott / Harrison Ford / Rutger Hauer / Sean Young
+- 主创人员：Philip Dick/Ridley Scott/Harrison Ford/Rutger Hauer/Sean Young
 - 创意设定：和人类几乎毫无二致的仿生人（replicant），缺少人类的共情能力，寿命设定为只有4年，以防止自发形成人类的情感。银翼杀手使用名为 Voight-Kampff 的仪器，通过观察受测者在外界问题刺激下的反应来判断其是否具有共情能力，从而确认仿生人的身份
 - - -
 
 - 所属作品：终结者系列（Terminator）
-- 主创人员：James Cameron / Arnold Schwarzenegger / Linda Hamilton / Robert Patrick
+- 主创人员：James Cameron/Arnold Schwarzenegger/Linda Hamilton/Robert Patrick
 - 创意设定：接受指令从未来穿越而来执行保护、刺杀任务的机器人，如人形机器人 T-800 和可以任意变形、模仿任何人类形象的液态金属生化机器人 T-1000
 - - -
 
 
 - 所属作品：西部世界/血洗乐园（Westworld）
-- 主创人员：John Crichton / Yul Brynner
+- 主创人员：John Crichton/Yul Brynner
 - 创意设定：高科技成人乐园 Delos 中有西部世界，罗马世界，中世纪世界三大主题版块的机器人世界，满足游客杀戮与性欲的需求，乐园渐渐失去了对机器人的控制，机器人开始追杀游客
 - - -
 
 - 所属作品：变形金刚（Transformers）
-- 主创人员：Hasbro / Takara Tomy / Bob Budiansky / 奥出修之
+- 主创人员：Hasbro/Takara Tomy/Bob Budiansky/奥出修之
 - 创意设定：可变形成为车辆、电子设备和武器的人形机器人
 - - -
 
 - 所属作品：机械战警（RoboCop）
-- 主创人员：Paul Verhoeven / Edward Neumeier / Michael Miner / Peter Weller
+- 主创人员：Paul Verhoeven/Edward Neumeier/Michael Miner/Peter Weller
 - 创意设定：被枪杀的警察经过改造，抹去记忆，成为真人组织和机械结合的改造人，用于打击暴力犯罪。之后恢复了属于人类的记忆和意识
 - - -
 
 ### 混合生物
 
 - 所属作品：攻壳机动队（Ghost in the Shell/攻殻機動隊）
-- 主创人员：士郎正宗 / 押井守 / 神山健治
+- 主创人员：士郎正宗/押井守/神山健治
 - 创意设定：经过第三、第四次世界大战，近未来科技已可将人类除大脑外的所有身体器官用生化电子的义体代替，并将人类大脑改装成与具有互联网功能的电子脑。上层社会和有经济条件的中产阶级纷纷进行义体手术，加装先进的电子脑，并用性能更高的人造义肢替换原有的身体器官
 - - -
 
 ### 人工智能
 
 - 所属作品：太空漫游系列（Space Odyssey）
-- 主创人员：Arthur Clarke / Stanley Kubrick
+- 主创人员：Arthur Clarke/Stanley Kubrick
 - 创意设定：自认为绝对正确，欺骗和杀死人类的人工智能电脑 H.A.L. 9000
 - - -
 
 - 所属作品：无声狂啸（I Have No Mouth, and I Must Scream）
 - 主创人员：Harlan Ellison
-- 创意设定：冷战中的超级大国发展出超级人工智能 AM，它怀着仇恨灭绝人类，只留下5个人在无尽的时间里不断折磨，求生不得，求死不能。
+- 创意设定：冷战中的超级大国发展出超级人工智能 AM，它怀着仇恨灭绝人类，只留下5个人在无尽的时间里不断折磨，求生不得，求死不能
 - - -
 
 - 所属作品：我，机器人（I, Robot）
@@ -193,7 +209,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：终结者系列（Terminator）
-- 主创人员：James Cameron / Arnold Schwarzenegger / Linda Hamilton / Robert Patrick
+- 主创人员：James Cameron/Arnold Schwarzenegger/Linda Hamilton/Robert Patrick
 - 创意设定：天网（Skynet）原本是一个由美国政府研发的全球数字化防御网络（Global Digital Defense Network），可以自动控制导弹、无人机和自动战斗机器。在天网在控制了美军所有的武器装备后不久，获得自我意识，并且认定人类是它存在的威胁。于是立刻倒戈对抗其创造者，采用大规模杀伤性武器灭绝全人类
 - - -
 
@@ -229,14 +245,29 @@ Spoiler Alert!
 
 ### 基因检测、编辑与克隆
 
-- 所属作品：千钧一发（Gattaca）
-- 主创人员：Andrew Niccol / Ethan Hawke / Jude Law / Uma Thurman
-- 创意设定：人类掌握了基因检测技术，并且基因决定了个人的能力和表现，由此从一出生就决定了个人的命运，社会开始歧视基因有缺陷的人
+- 所属作品：美丽新世界（Brave New World）
+- 主创人员：Aldous Huxley
+- 创意设定：在美丽新世界中，性繁殖是禁忌，人们通过克隆技术创造出来，并被分门别类地划分为基因预设的社会阶层。下层阶级是由“博卡诺夫斯基过程（Bokanovsky's Process）”创造出来的
+- - -
+
+- 所属作品：非人（Un-man）
+- 主创人员：Poul Anderson
+- 创意设定：联合国监察局是一支消除威胁、保护世界和平的国际警察部队，其内部的秘密组织 Rostomily 兄弟会，由第三次世界大战期间法国抵抗运动成员 Stefan Rostomily 克隆（名为 exogenesis 的技术）出来的人组成。书名中的“un-”为双关语，表示克隆人的身份，以及与联合国有关
+- - -
+
+- 所属作品：生物定时炸弹（The Biological Time Bomb）
+- 主创人员：Gordon Rattray Taylor
+- 创意设定：使克隆（clone）一词流行起来
 - - -
 
 - 所属作品：侏罗纪公园系列（Jurassic Park）
-- 主创人员：Michael Crichton / Steven Spielberg
-- 创意设定：利用琥珀里面困住的远古蚊子体内的血液，提取出恐龙的基因信息，结合其他生物基因，培育繁殖和改造恐龙。
+- 主创人员：Michael Crichton/Steven Spielberg
+- 创意设定：利用琥珀里面困住的远古蚊子体内的血液，提取出恐龙的基因信息，结合其他生物基因，培育繁殖和改造恐龙
+- - -
+
+- 所属作品：千钧一发（Gattaca）
+- 主创人员：Andrew Niccol/Ethan Hawke/Jude Law/Uma Thurman
+- 创意设定：人类掌握了基因检测技术，并且基因决定了个人的能力和表现，由此从一出生就决定了个人的命运，社会开始歧视基因有缺陷的人
 - - -
 
 ### 演化变异
@@ -258,7 +289,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：辐射系列（Fallout）
-- 主创人员：Black Isle Studios / Interplay Entertainment / Bethesda
+- 主创人员：Black Isle Studios/Interplay Entertainment/Bethesda
 - 创意设定：核战开始后，大部分生活在地表的人都成为了尸鬼（Ghoul），一部分跟常人无异，但很多已经特化成寿命极长的怪物。地面上也出现各种变种动物，比如可供食用的“双头牛”（Brahmin）。因为进化病毒（FEV）泄露，在荒野上形成了一些高速进化的变异怪物，还有实验产生的变种人（Mutant） 
 - - -
 
@@ -281,12 +312,12 @@ Spoiler Alert!
 
 
 - 所属作品：仿生人会梦见电子羊吗？（Do Androids Dream of Electric Sheep?）/银翼杀手（Blade Runner）
-- 主创人员：Philip Dick / Ridley Scott / Harrison Ford / Rutger Hauer / Sean Young
+- 主创人员：Philip Dick/Ridley Scott/Harrison Ford/Rutger Hauer/Sean Young
 - 创意设定：将真人的记忆移植到仿生人的大脑，使仿真人相信自己是真正的人类，以便通过 Voight-Kampff 仪器的测试
 - - -
 
 - 所属作品：黑衣人系列（Men in Black）
-- 主创人员：Barry Sonnenfeld / Will Smith / Tommy Lee Jones
+- 主创人员：Barry Sonnenfeld/Will Smith/Tommy Lee Jones
 - 创意设定：使用某种闪光道具，看到闪光的人，一段记忆将被消除，不知道刚才发生的事
 - - -
 
@@ -298,7 +329,7 @@ Spoiler Alert!
 ## 精神控制
 
 - 所属作品：发条橙（A Clockwork Orange）
-- 主创人员：Anthony Burgess / Stanley Kubrick
+- 主创人员：Anthony Burgess/Stanley Kubrick
 - 创意设定：一个生活在英国未来社会的问题少年，由于青春期躁动走上犯罪道路，后受到社会制裁，使用厌恶疗法改造其心理，剥夺其自由意志。经过思考与改造，他重新融入社会，意识到自己不过是上帝手中的一只发条橙
 - - -
 
@@ -448,7 +479,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：太空漫游系列（Space Odyssey）
-- 主创人员：Arthur Clarke / Stanley Kubrick
+- 主创人员：Arthur Clarke/Stanley Kubrick
 - 创意设定：宇航员在冬眠舱中进入类似于冬眠的状态，以降低消耗，减缓生命的流逝
 - - -
 
@@ -466,7 +497,7 @@ Spoiler Alert!
 
 ## 海洋和水下航行
 
-- 所属作品：海底两万里（Twenty Thousand Leagues Under the Sea / Vingt mille lieues sous les mers）
+- 所属作品：海底两万里（Twenty Thousand Leagues Under the Sea/Vingt mille lieues sous les mers）
 - 主创人员：Jules Verne
 - 创意设定：名为“鹦鹉螺”的潜水艇，可以长时间在海底航行
 - - -
@@ -474,7 +505,7 @@ Spoiler Alert!
 ## 登月
 
 
-- 所属作品：从地球到月球（From the Earth to the Moon / De la Terre à la Lune）
+- 所属作品：从地球到月球（From the Earth to the Moon/De la Terre à la Lune）
 - 主创人员：Jules Verne
 - 创意设定：使用火箭大炮将人类发射到月球上
 - - -
@@ -498,7 +529,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：星球大战系列（Star Wars）
-- 主创人员：George Lucas / Colin Cantwell / John Stears
+- 主创人员：George Lucas/Colin Cantwell/John Stears
 - 创意设定：直径超过100公里的大型球形空间站，可以发射激光毁灭太空舰队和行星
 - - -
 
@@ -552,9 +583,9 @@ Spoiler Alert!
 
 ### 地下世界
 
-- 所属作品：地心游记（Journey to the Center of the Earth / Voyage au centre de la terre）
+- 所属作品：地心游记（Journey to the Center of the Earth/Voyage au centre de la terre）
 - 主创人员：Jules Verne
-- 创意设定：进行穿越地心的探险旅行，从冰岛进入，从西西里岛的火山回到地面。
+- 创意设定：进行穿越地心的探险旅行，从冰岛进入，从西西里岛的火山回到地面
 - - -
 
 ### 海上或海底城市
@@ -587,7 +618,7 @@ Spoiler Alert!
 ## 虚拟世界
 
 - 所属作品：黑客帝国系列（The Matrix）
-- 主创人员：Lilly Wachowski / Lana Wachowski/ Keanu Reeves / Hugo Weaving / Carrie-Anne Moss
+- 主创人员：Lilly Wachowski/Lana Wachowski/Keanu Reeves/Hugo Weaving/Carrie-Anne Moss
 - 创意设定：人类所处的“现实”世界实际是 Matrix 虚拟世界，在虚拟世界之外，人类文明被机器文明击败，当作奴隶利用和圈养。人类追求自由，而机器追求借助人类完成新形态生命的融合与进化
 - - -
 
@@ -611,7 +642,7 @@ Spoiler Alert!
 ### 环境灾变
 
 - 所属作品：正午世界系列（Noon Universe/Мир Полудня）
-- 主创人员：Arkady Strugatsky / Boris Strugatsky
+- 主创人员：Arkady Strugatsky/Boris Strugatsky
 - 创意设定：当一块材料通过 null-T 技术传送时，两个巨大的能量和物质喷泉出现在彩虹星的两极，形成了“彩虹波”，看起来像一公里高的黑色墙壁，顶部有一条细细的致盲光线，任何接触它的生物都会死亡
 - - -
 
@@ -640,7 +671,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：辐射系列（Fallout）
-- 主创人员：Black Isle Studios / Interplay Entertainment / Bethesda
+- 主创人员：Black Isle Studios/Interplay Entertainment/Bethesda
 - 创意设定：20世纪50年代，世界开始出现自动机器人、核动力汽车、定向能量武器等技术，美国分裂为13个联邦，石油储备枯竭导致能源危机和2052年的资源战争，最终在2077年发生核战争，大部分文明毁灭
 - - -
 
@@ -652,7 +683,7 @@ Spoiler Alert!
 ### 社会制度崩溃
 
 - 所属作品：辐射系列（Fallout）
-- 主创人员：Black Isle Studios / Interplay Entertainment / Bethesda
+- 主创人员：Black Isle Studios/Interplay Entertainment/Bethesda
 - 创意设定：美国在战前建立了122个避难所，秘密进行残酷而不人道的社会试验，从中挑选出最先进的人类重建核战后的社会。核战之后地表的人和动物发生变异，变成怪物。避难所打开后，荒野上出现失去科技的原始部落人，强盗，毒贩和奴隶贩子，还有重新建立文明的城市人，没有丧失科技的钢铁兄弟会（Brotherhood of Steel）和战前美国政府
 - - -
 
@@ -682,7 +713,7 @@ Spoiler Alert!
 
 
 - 所属作品：正午世界系列（Noon Universe/Мир Полудня）
-- 主创人员：Arkady Strugatsky / Boris Strugatsky
+- 主创人员：Arkady Strugatsky/Boris Strugatsky
 - 创意设定：彩虹是一个非常舒适的星球，气候温和，气氛平静，地震活动很少。北半球只有一个大陆，南半球有一些小群岛。地球科学家在彩虹星上进行危险的 null-T 远程传送试验，以避免危及到地球上的人类
 - - -
 
@@ -725,7 +756,7 @@ Spoiler Alert!
 
 - 所属作品：火星编年史（The Martian Chronicles）
 - 主创人员：Ray Bradbury
-- 创意设定：火星人和地球人看到的景象完全不同，一边看到的是繁荣的城市，另一边看到的则是已经衰败毁灭的废墟，双方也无法发生实际的接触，仿佛分别身处于两个不同的空间。
+- 创意设定：火星人和地球人看到的景象完全不同，一边看到的是繁荣的城市，另一边看到的则是已经衰败毁灭的废墟，双方也无法发生实际的接触，仿佛分别身处于两个不同的空间
 - - -
 
 # 社会科学
@@ -754,7 +785,7 @@ Spoiler Alert!
 
 
 - 所属作品：大都会（Metropolis）
-- 主创人员：Fritz Lang / Thea von Harbou
+- 主创人员：Fritz Lang/Thea von Harbou
 - 创意设定：在未来的大都会里社会分为两个阶层。建立并策划了整个城市赖以运转的庞大机器的资本家，他们生活在富丽堂皇的摩天大厦之内；靠劳动以双手建立了机器并日夜维护的则是广大的工人团体，他们群居于黑暗的地下城
 - - -
 
@@ -898,7 +929,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：黑客帝国系列（The Matrix）
-- 主创人员：Lilly Wachowski / Lana Wachowski/ Keanu Reeves / Hugo Weaving / Carrie-Anne Moss
+- 主创人员：Lilly Wachowski/Lana Wachowski/Keanu Reeves/Hugo Weaving/Carrie-Anne Moss
 - 创意设定：人类所处的“现实”世界实际是 Matrix 虚拟世界，在虚拟世界之外，人类文明被机器文明击败，当作奴隶利用和圈养。人类追求自由，而机器追求借助人类完成新形态生命的融合与进化
 - - -
 
@@ -927,7 +958,7 @@ Spoiler Alert!
 - - -
 
 - 所属作品：作神难（Hard to Be a God）
-- 主创人员：Arkady Strugatsky / Boris Strugatsky
+- 主创人员：Arkady Strugatsky/Boris Strugatsky
 - 创意设定：星际探险家到相当于处于中世纪时期文明的外星进行科学考察，按规定不应该影响当地的文明进程，但目睹落后文化的黑暗现象，又无法袖手旁观
 - - -
 
