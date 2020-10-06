@@ -175,16 +175,24 @@ Spoiler Alert!
 - 创意设定：可变形成为车辆、电子设备和武器的人形机器人
 - - -
 
-- 所属作品：机械战警（RoboCop）
-- 主创人员：Paul Verhoeven/Edward Neumeier/Michael Miner/Peter Weller
-- 创意设定：被枪杀的警察经过改造，抹去记忆，成为真人组织和机械结合的改造人，用于打击暴力犯罪。之后恢复了属于人类的记忆和意识
-- - -
 
 ### 混合生物
+
+
+- 所属作品：世上最聪明的人（The Ablest Man in the World）
+- 主创人员：Edward Mitchell
+- 创意设定：Rapperschwyll 将机械式计算机植入 Savitch 男爵的大脑，将他从哑巴和弱智变为不会犯错的智力天才和政治家
+- - -
+
 
 - 所属作品：攻壳机动队（Ghost in the Shell/攻殻機動隊）
 - 主创人员：士郎正宗/押井守/神山健治
 - 创意设定：经过第三、第四次世界大战，近未来科技已可将人类除大脑外的所有身体器官用生化电子的义体代替，并将人类大脑改装成与具有互联网功能的电子脑。上层社会和有经济条件的中产阶级纷纷进行义体手术，加装先进的电子脑，并用性能更高的人造义肢替换原有的身体器官
+- - -
+
+- 所属作品：机械战警（RoboCop）
+- 主创人员：Paul Verhoeven/Edward Neumeier/Michael Miner/Peter Weller
+- 创意设定：被枪杀的警察经过改造，抹去记忆，成为真人组织和机械结合的改造人，用于打击暴力犯罪。之后恢复了属于人类的记忆和意识
 - - -
 
 ### 人工智能
@@ -302,6 +310,13 @@ Spoiler Alert!
 
 
 ## 修复与复活
+
+
+- 所属作品：被用完的人（The Man That Was Used Up/A Tale of the Late Bugaboo and Kickapoo Campaign）
+- 主创人员：Edgar Allan Poe
+- 创意设定：John A. B. C. Smith 准将在与印第安人的战斗中被俘虏并肢解，身体大部分都变成由义体零件组成，每天必须经过仆人组装后才能站立和正常生活
+- - -
+
 
 - 所属作品：陶威尔教授的头颅（Professor Dowell's Head/Голова профессора Доуэля）
 - 主创人员：Alexander Belyaev
