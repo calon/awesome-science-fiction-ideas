@@ -5,7 +5,7 @@ awesome-science-fiction-ideas
 以经典科幻小说为主，包括科幻影视、漫画、游戏和一些学术思考。
 同一部作品可有多个构想收录其中。
 
-欢迎通过[邮件](mailto:calon.xu+scifi@gmail.com)、[Github issue](https://github.com/calon/awesome-science-fiction-ideas/issues) 和 [Twitter](https://twitter.com/calon) 等渠道补充提交条目，共同丰富本清单。
+欢迎通过[邮件](mailto:calon.xu+scifi@gmail.com)、[Discussions](https://github.com/calon/awesome-science-fiction-ideas/discussions) 和 [Twitter](https://twitter.com/calon) 等渠道补充提交条目，共同丰富本清单。
 
 提交条目的基本格式：
 
