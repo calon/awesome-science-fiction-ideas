@@ -5,21 +5,19 @@ Awesome Science Fiction Ideas
 以经典科幻小说为主，包括科幻影视、漫画、游戏和一些学术思考。
 同一部作品可有多个构想收录其中。
 
-<<<<<<< HEAD
 Github 项目地址：
 [https://github.com/calon/awesome-science-fiction-ideas](https://github.com/calon/awesome-science-fiction-ideas)
 
 欢迎通过[邮件](mailto:calon.xu+scifi@gmail.com)、[Github issue](https://github.com/calon/awesome-science-fiction-ideas/issues) 和 [Twitter](https://twitter.com/calon) 等渠道补充提交条目，共同丰富本清单。
-=======
-欢迎通过[邮件](mailto:calon.xu+scifi@gmail.com)、[Discussions](https://github.com/calon/awesome-science-fiction-ideas/discussions) 和 [Twitter](https://twitter.com/calon) 等渠道补充提交条目，共同丰富本清单。
->>>>>>> a9f7a52af0b2f6c2df828889b3def90982c28d52
 
 提交条目的基本格式：
 
+```
 - 所属作品：
 - 主创人员：
 - 创意设定：
 - - -
+```
 
 如果要寻找值得一看的科幻作品，可以查看：[Awesome Sci-Fi](https://github.com/sindresorhus/awesome-scifi)。  
 同时欢迎参与编辑“仰望星空”科幻微信群的[科幻电影/书籍/游戏推荐清单](https://shimo.im/docs/IVI6WXUgXswJnxe0)。
