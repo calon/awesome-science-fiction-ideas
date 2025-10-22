@@ -1,14 +1,14 @@
 科幻构想绝赞清单
 Awesome Science Fiction Ideas
 
-该项目的目的：收集有开创性、独特性和影响力的科幻构想。
-以经典科幻小说为主，包括科幻影视、漫画、游戏和一些学术思考。
+该项目的目的：收集有开创性、独特性和影响力的科幻构想。  
+以经典科幻小说为主，包括科幻影视、漫画、游戏和一些学术思考。  
 同一部作品可有多个构想收录其中。
 
 Github 项目地址：
 [https://github.com/calon/awesome-science-fiction-ideas](https://github.com/calon/awesome-science-fiction-ideas)
 
-欢迎通过[邮件](mailto:calon.xu+scifi@gmail.com)、[Github issue](https://github.com/calon/awesome-science-fiction-ideas/issues) 和 [Twitter](https://twitter.com/calon) 等渠道补充提交条目，共同丰富本清单。
+欢迎通过[邮件](mailto:calon.xu+scifi@gmail.com)、[Github issue](https://github.com/calon/awesome-science-fiction-ideas/issues) 和 [Mastodon](https://mastodon.world/@calon) 等渠道补充提交条目，共同丰富本清单。
 
 提交条目的基本格式：
 
@@ -196,6 +196,12 @@ Spline 原本是长有肢体的海洋生物，经过改造后成为巨大的气�
 - 所属作品：变形金刚（Transformers）
 - 主创人员：Hasbro/Takara Tomy/Bob Budiansky/奥出修之
 - 创意设定：可变形成为车辆、电子设备和武器的人形机器人。
+- - -
+
+
+- 所属作品：无敌号（The Invincible）
+- 主创人员：Stanisław Lem
+- 创意设定：有自组织能力、能成群结队集体行动、不断进化的微型机器人。个体基本无害，行为简单，但聚集后破坏力强大，能通过电磁干扰威胁其他智能生物。
 - - -
 
 
@@ -741,7 +747,7 @@ Spline 原本是长有肢体的海洋生物，经过改造后成为巨大的气�
 ## 星体
 
 - 所属作品：索拉里斯星（Solaris）
-- 主创人员：Stanislaw Lem
+- 主创人员：Stanisław Lem
 - 创意设定：整个星球的凝胶状海洋是包围星体的生物体，能够探知人类记忆，并根据记忆中隐秘、痛苦和压抑的部分形成以假乱真的实体物质，用来测试人类的思想。
 - - -
 
